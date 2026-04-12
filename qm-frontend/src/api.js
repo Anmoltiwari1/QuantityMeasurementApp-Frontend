@@ -1,4 +1,4 @@
-const BASE = "http://localhost:8080";
+const BASE = "";
 
 // ── Core request helper ───────────────────────────────────────────────────────
 // Merges Content-Type with any extra headers (e.g. Authorization).
